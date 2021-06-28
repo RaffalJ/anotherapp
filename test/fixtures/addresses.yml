@@ -1,0 +1,9 @@
+address_one:
+  city: Lodz
+  street: Ulica
+  street_number: 1
+
+address_two:
+  city: Warszawa
+  street: Politechniki
+  street_number: 23
